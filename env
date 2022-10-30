@@ -1,0 +1,4 @@
+VITE_SERVERLESS_ORDER = http://localhost:8888/.netlify/functions/order
+VITE_SERVERLESS_VERIFY = http://localhost:8888/.netlify/functions/verify
+VITE_RAZORPAY_PUBLIC = rzp_test_3IGlVCYp0SpcJ7
+RAZORPAY_SECRET=cIBqjvH4qy0JB3xt3B0rYkCP

@@ -1,0 +1,5 @@
+targetPort = 8001
+[build]
+command = 'npm run build'
+functions = 'functions'
+publish = 'dist'
